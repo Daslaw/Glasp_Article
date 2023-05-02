@@ -28,6 +28,10 @@ Assignment requirement:
 - Must have necessary images 
 - Use the Google Writing style guide
 
+## Project Screenshot
+![Glasp wall](./images/../Article/images/Glasp_Sample%20.png)
+
+
 **CREDIT** 
 [Technical Writing Mentorship Program](https://twitter.com/TechnicalWriti6) 
 
